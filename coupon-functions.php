@@ -1,7 +1,7 @@
 <?php
-// Author: Doug Marshall
-// Author Site: http://www.theamazingdoug.com
-// Author Github: https://www.github.com/justplaindoug
+// Author: April Marshall
+// Author Site: http://www.aprilagain.com
+// Author Github: https://www.github.com/theamazingaprilb
 function yourslug_coupons_posttype() {
   register_post_type( 'coupons',
     array(
